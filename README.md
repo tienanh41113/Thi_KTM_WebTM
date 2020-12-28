@@ -10,6 +10,18 @@
 <img src="https://github.com/tienanh41113/Chuky/blob/master/lien%20ket.png?raw=true">
 </br>
 </br>
+<h3>Bảng tin tức</h3>
+<img src="https://github.com/tienanh41113/Chuky/blob/master/3.png?raw=true">
+</br>
+</br>
+<h3>Bảng tác giả</h3>
+<img src="https://github.com/tienanh41113/Chuky/blob/master/2.png?raw=true">
+</br>
+</br>
+<h3>Bảng Chủ đề</h3>
+<img src="https://github.com/tienanh41113/Chuky/blob/master/1.png?raw=true">
+</br>
+</br>
 <h3>Giao diện trang chủ</h3>
 <img src="https://github.com/tienanh41113/Chuky/blob/master/trang%20ch%E1%BB%A7.png?raw=true">
 </br>
